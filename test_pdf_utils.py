@@ -1,10 +1,10 @@
 from pdf_utils import PdfSplitter
 
 # Provide the path to the input PDF file
-input_pdf_path = 'D:\\file_conversion\\igs-file-conversion\\input_folder\\output_docxtopdf_file.pdf'
+input_pdf_path = 'input_folder\\output_docxtopdf_file.pdf'
 
 # Specify the folder where the output PDF files will be saved
-output_folder = 'D:\\file_conversion\\igs-file-conversion\\output_folder'
+output_folder = 'output_folder\\output_folder'
 
 # Get the number of pages per part from user input
 pages_per_part = int(input("Enter the number of pages per part: "))
