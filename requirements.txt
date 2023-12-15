@@ -1,0 +1,16 @@
+colorama==0.4.6
+comtypes==1.2.0
+docx2pdf==0.1.8
+fire==0.5.0
+fonttools==4.45.1
+lxml==4.9.3
+numpy==1.26.2
+opencv-python==4.8.1.78
+pdf2docx==0.5.6
+PyMuPDF==1.23.7
+PyMuPDFb==1.23.7
+python-docx==1.1.0
+six==1.16.0
+termcolor==2.4.0
+tqdm==4.66.1
+typing_extensions==4.8.0
